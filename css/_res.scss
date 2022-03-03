@@ -1,0 +1,396 @@
+@media(max-width:480px) {
+
+    .header { width: 80%; }
+    .menu-button { font-size: 20px; }
+    .main {
+        width: 100%;
+        margin: auto;
+        display: block;
+        padding: 0px;
+        color: white;
+        margin-top: 100px;
+        .introduction {     
+            width: 100%;
+            margin: auto;
+            margin: 30px 0;
+            text-align: center;
+            h1 { font-size: 23px; }
+            h2 { font-size: 20px; }
+        }
+    }
+
+    .about {
+        width: 100%;
+        margin-top: 50px;
+        padding: 10px;
+        .about_text {
+            padding: 30px;
+            margin-top: 30px;
+            p {margin-top: 10px;}
+        }
+    }
+
+    .skills {
+        width: 100%;
+        margin-top: 120px;
+        text-align: end;
+        .skills_box {
+            margin-left: 0px;
+            .skills_content {
+                .skills_img {
+                    width: 300px;
+                    margin-top: 10px;
+                    img { 
+                        width: 50px;
+                    }
+                }
+            }
+        }
+    }
+
+    .project {
+        width: 80%;
+        margin-top: 80px;
+        .project_box {
+            margin: 40px 0;
+            margin: auto;
+            display: block;
+            .project_img {
+                width: 60%;
+                height: 100%;
+            }
+            .project_text {
+                width: 70%;
+                margin-top: 40px;
+                font-size: 15px;
+                h5 { margin-bottom: 10px; }
+            }
+            .project_number {
+                width: 10%;
+                font-size: 35px;
+                display: none;
+            }
+            
+        }
+    } 
+
+   
+    .header { width: 80%; }
+    .menu-button { font-size: 20px; }
+    .main {
+        width: 100%;
+        margin: auto;
+        display: block;
+        padding: 0px;
+        color: white;
+        margin-top: 100px;
+        .introduction {     
+            width: 100%;
+            margin: auto;
+            margin: 30px 0;
+            text-align: center;
+            h1 { font-size: 23px; }
+            h2 { font-size: 20px; }
+        }
+    }
+
+    .about {
+        width: 100%;
+        margin-top: 50px;
+        padding: 10px;
+        .about_text {
+            padding: 30px;
+            margin-top: 30px;
+            p {margin-top: 10px;}
+        }
+    }
+
+    .skills {
+        width: 100%;
+        margin-top: 120px;
+        text-align: end;
+        .skills_box {
+            margin-left: 0px;
+            .skills_content {
+                .skills_img {
+                    width: 300px;
+                    margin-top: 10px;
+                    img { 
+                        width: 50px;
+                    }
+                }
+            }
+        }
+    }
+
+    .project {
+        width: 80%;
+        margin-top: 80px;
+        .project_box {
+            margin: 40px 0;
+            margin: auto;
+            display: block;
+            .project_img {
+                width: 60%;
+                height: 100%;
+            }
+            .project_text {
+                width: 70%;
+                margin-top: 20px;
+                font-size: 15px;
+                h5 { margin-bottom: 10px; }
+            }
+            .project_number {
+                width: 10%;
+                font-size: 35px;
+                display: none;
+            }
+            
+        }
+    } 
+
+    .contact {
+        .contact_text {
+            p {
+                margin: 30px 0;
+                font-size: 20px;
+                span {
+                    color:  #ff9900;
+                }
+            }
+        }
+        .contact_box {
+            img {
+                width: 30px;
+            }
+            figure {
+                margin: 10px 0;
+                figcaption {
+                    font-size: 18px;
+                }
+            }
+        }
+        .thankU {
+            margin: 30px 0 0 0;
+            padding: 25px;
+            font-size: 20px;
+        }
+        footer {
+            text-align: center;
+        }
+    }
+    
+
+    
+
+}
+@media(min-width:480px) and (max-width:767px){
+
+
+    .header { width: 80%; }
+    .menu-button { font-size: 20px; }
+    .main {
+        width: 100%;
+        margin: auto;
+        display: block;
+        padding: 0px;
+        color: white;
+        margin-top: 100px;
+        .introduction {     
+            width: 100%;
+            margin: auto;
+            margin: 30px 0;
+            text-align: center;
+            h1 { font-size: 23px; }
+            h2 { font-size: 20px; }
+        }
+    }
+
+    .about {
+        width: 100%;
+        margin-top: 100px;
+        padding: 10px;
+        .about_text {
+            padding: 30px;
+            margin-top: 30px;
+            p {margin-top: 10px;}
+        }
+    }
+
+    .skills {
+        width: 100%;
+        margin-top: 120px;
+        text-align: end;
+        .skills_box {
+            margin-left: 0px;
+            .skills_content {
+                .skills_img {
+                    width: 300px;
+                    margin-top: 10px;
+                    img { 
+                        width: 50px;
+                    }
+                }
+            }
+        }
+    }
+
+    .project {
+        width: 80%;
+        margin-top: 80px;
+        .project_box {
+            margin: 40px 0;
+            margin: auto;
+            display: block;
+            .project_img {
+                width: 60%;
+                height: 100%;
+            }
+            .project_text {
+                width: 100%;
+                margin-top: 20px;
+                font-size: 20px;
+                h5 { margin-bottom: 10px; }
+            }
+            .project_number {
+                width: 10%;
+                font-size: 35px;
+                display: none;
+            }
+            
+        }
+    } 
+
+    .contact {
+        .contact_text {
+            p {
+                margin: 30px 0;
+                font-size: 25px;
+                span {
+                    color:  #ff9900;
+                }
+            }
+        }
+        .contact_box {
+            img {
+                width: 30px;
+            }
+            figure {
+                margin: 10px 0;
+                figcaption {
+                    font-size: 18px;
+                }
+            }
+        }
+        .thankU {
+            margin: 60px 0 0 0;
+            padding: 25px;
+            font-size: 20px;
+        }
+        footer {
+            text-align: center;
+        }
+    }
+    
+
+
+}
+
+
+@media(min-width:768px) and (max-width:1024px){
+    
+    .main {
+        .introduction { 
+            h1 {font-size: 30px; }
+            h2 { font-size: 30px; }
+        }
+    }
+    .about {
+        width: 100%;
+        margin-top: 50px;
+        padding: 10px;
+        .about_text {
+            padding: 30px;
+            margin-top: 30px;
+            p {margin-top: 10px;}
+        }
+    }
+
+    .skills {
+        width: 100%;
+        margin-top: 120px;
+        text-align: end;
+        .skills_box {
+            margin-left: 0px;
+            .skills_content {
+                .skills_img {
+                    width: 300px;
+                    margin-top: 10px;
+                    img { 
+                        width: 50px;
+                    }
+                }
+            }
+        }
+    }
+
+    .project {
+        width: 80%;
+        margin-top: 80px;
+        .project_box {
+            margin: 40px 0;
+            margin: auto;
+            display: block;
+            .project_img {
+                width: 60%;
+                height: 100%;
+            }
+            .project_text {
+                width: 70%;
+                margin-top: 20px;
+                font-size: 15px;
+                h5 { margin-bottom: 10px; }
+            }
+            .project_number {
+                width: 10%;
+                font-size: 35px;
+                display: none;
+            }
+            
+        }
+    } 
+
+    .contact {
+        .contact_text {
+            p {
+                margin: 30px 0;
+                font-size: 20px;
+                span {
+                    color:  #ff9900;
+                }
+            }
+        }
+        .contact_box {
+            img {
+                width: 30px;
+            }
+            figure {
+                margin: 10px 0;
+                figcaption {
+                    font-size: 18px;
+                }
+            }
+        }
+        .thankU {
+            margin: 60px 0 0 0;
+            padding: 25px;
+            font-size: 20px;
+        }
+        footer {
+            text-align: center;
+        }
+    }
+    
+
+}
+@media (min-width:1025px) and (max-width:1599px){}
