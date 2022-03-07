@@ -51,6 +51,7 @@
   padding: 10px;
   position: fixed;
   width: 100%;
+  z-index: 100;
 }
 
 .header {
@@ -532,6 +533,10 @@
 }
 
 @media (max-width: 480px) {
+  * {
+    overflow-y: auto;
+    overflow-x: auto;
+  }
   .header {
     width: 80%;
   }
